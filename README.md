@@ -1,4 +1,3 @@
-![imágen insignia](/src/main/resources/imagenes/cinco.PNG)
 # 📚 Challange Literalura 📚
 Literalura es una aplicación de gestión de libros de tu biblioteca online personal.
 
