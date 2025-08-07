@@ -1,3 +1,4 @@
+![imágen de la insignia](/src/main/resources/imagenes/insignia.PNG)
 # 📚 Challange Literalura 📚
 Literalura es una aplicación de gestión de libros de tu biblioteca online personal.
 
@@ -49,10 +50,10 @@ Literalura es una aplicación de gestión de libros de tu biblioteca online pers
 4. ejecute el archivo LiretaluraAplication
 
 ## Imágenes del proyecto en ejecución:
-![imagnes del proyecto en ejecución](/src/main/resources/imagenes/uno.PNG)
-![imagnes del proyecto en ejecución](/src/main/resources/imagenes/dos.PNG)
-![imagnes del proyecto en ejecución](/src/main/resources/imagenes/tres.PNG)
-![imagnes del proyecto en ejecución](/src/main/resources/imagenes/cuatro.PNG)
+![imágenes del proyecto en ejecución](/src/main/resources/imagenes/uno.PNG)
+![imágenes del proyecto en ejecución](/src/main/resources/imagenes/dos.PNG)
+![imágenes del proyecto en ejecución](/src/main/resources/imagenes/tres.PNG)
+![imágenes del proyecto en ejecución](/src/main/resources/imagenes/cuatro.PNG)
 
 ## Autor: 👨‍💻
 [Manuel Condori](https://github.com/M4nu007)
